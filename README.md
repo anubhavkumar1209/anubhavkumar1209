@@ -88,10 +88,7 @@ I'm a Computer Science Engineering student specializing in **Full-Stack Developm
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumar1209&theme=dark&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideNums=39d353&currStreakNum=39d353&sideLabels=c9d1d9" alt="Contribution Streak" />
 </div>
 
-### 🏆 GitHub Profile Trophy
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anubhavrajyt&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" />
-</div>
+
 
 ---
 
